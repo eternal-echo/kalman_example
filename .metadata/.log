@@ -2686,3 +2686,1396 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.launchbar.core 2 0 2022-11-02 09:56:36.474
 !MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.871
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.872
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_ROOT= 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.872
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set ENV_ROOT=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.873
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_EXEC_PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.874
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set KCONF_EXEC_PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.875
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_CC=gcc 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.876
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTTS_PLATFORM=STUDIO 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.877
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set SCONS=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.877
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PKGS_ROOT=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.878
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.880
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.881
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.882
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.883
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.884
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.886
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\qemu\qemu32;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.887
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PYTHONPATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.887
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\qemu\qemu32;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio;;E:/Software/compiler/Git/Git/bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:02.888
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>scons --target=eclipse 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:05.446
+!MESSAGE scons: Reading SConscript files ...
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:06.179
+!MESSAGE Newlib version:2.4.0
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:06.490
+!MESSAGE Update eclipse setting...
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:07.943
+!MESSAGE done!
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:07.944
+!MESSAGE scons: done reading SConscript files.
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:07.945
+!MESSAGE scons: Building targets ...
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.011
+!MESSAGE scons: building associated VariantDir targets: build
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.049
+!MESSAGE CC build\applications\kalman\kalman.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.157
+!MESSAGE CC build\applications\main.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.161
+!MESSAGE CC build\board\board.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.165
+!MESSAGE CC build\board\CubeMX_Config\Src\stm32f4xx_hal_msp.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.174
+!MESSAGE CC build\kernel\components\drivers\i2c\i2c-bit-ops.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.177
+!MESSAGE CC build\kernel\components\drivers\i2c\i2c_core.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.180
+!MESSAGE CC build\kernel\components\drivers\i2c\i2c_dev.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.184
+!MESSAGE CC build\kernel\components\drivers\ipc\completion.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.187
+!MESSAGE CC build\kernel\components\drivers\ipc\dataqueue.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.191
+!MESSAGE CC build\kernel\components\drivers\ipc\pipe.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.194
+!MESSAGE CC build\kernel\components\drivers\ipc\ringblk_buf.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.198
+!MESSAGE CC build\kernel\components\drivers\ipc\ringbuffer.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.201
+!MESSAGE CC build\kernel\components\drivers\ipc\waitqueue.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.203
+!MESSAGE CC build\kernel\components\drivers\ipc\workqueue.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.206
+!MESSAGE CC build\kernel\components\drivers\misc\pin.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.213
+!MESSAGE CC build\kernel\components\drivers\sensors\sensor.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.215
+!MESSAGE CC build\kernel\components\drivers\sensors\sensor_cmd.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.220
+!MESSAGE CC build\kernel\components\drivers\serial\serial.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.228
+!MESSAGE CC build\kernel\components\finsh\cmd.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.231
+!MESSAGE CC build\kernel\components\finsh\msh.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.233
+!MESSAGE CC build\kernel\components\finsh\shell.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.239
+!MESSAGE CC build\kernel\components\libc\compilers\common\stdlib.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.241
+!MESSAGE CC build\kernel\components\libc\compilers\common\time.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.248
+!MESSAGE CC build\kernel\components\libc\compilers\newlib\syscalls.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.293
+!MESSAGE CC build\kernel\libcpu\arm\common\backtrace.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.297
+!MESSAGE CC build\kernel\libcpu\arm\common\div0.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.301
+!MESSAGE CC build\kernel\libcpu\arm\common\showmem.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.304
+!MESSAGE AS build\kernel\libcpu\arm\cortex-m4\context_gcc.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.306
+!MESSAGE CC build\kernel\libcpu\arm\cortex-m4\cpuport.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.310
+!MESSAGE CC build\kernel\src\clock.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.312
+!MESSAGE CC build\kernel\src\components.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.316
+!MESSAGE CC build\kernel\src\device.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.318
+!MESSAGE CC build\kernel\src\idle.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.321
+!MESSAGE CC build\kernel\src\ipc.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.324
+!MESSAGE CC build\kernel\src\irq.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.326
+!MESSAGE CC build\kernel\src\kservice.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.329
+!MESSAGE CC build\kernel\src\memheap.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.332
+!MESSAGE CC build\kernel\src\mempool.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.334
+!MESSAGE CC build\kernel\src\object.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.337
+!MESSAGE CC build\kernel\src\scheduler.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.340
+!MESSAGE CC build\kernel\src\thread.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.344
+!MESSAGE CC build\kernel\src\timer.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.351
+!MESSAGE CC build\packages\mpu6xxx-latest\src\mpu6xxx.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.354
+!MESSAGE CC build\packages\mpu6xxx-latest\src\sensor_inven_mpu6xxx.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.394
+!MESSAGE CC libraries\HAL_Drivers\drv_common.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.398
+!MESSAGE CC libraries\HAL_Drivers\drv_gpio.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.418
+!MESSAGE CC libraries\HAL_Drivers\drv_soft_i2c.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.422
+!MESSAGE CC libraries\HAL_Drivers\drv_usart.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.426
+!MESSAGE AS libraries\STM32F4xx_HAL\CMSIS\Device\ST\STM32F4xx\Source\Templates\gcc\startup_stm32f429xx.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.429
+!MESSAGE CC libraries\STM32F4xx_HAL\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.435
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.438
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cec.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.441
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.445
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_crc.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.449
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.452
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp_ex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.455
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.460
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.464
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.468
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.470
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c_ex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.474
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.477
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.480
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.484
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.486
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rng.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.490
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.494
+!MESSAGE CC libraries\STM32F4xx_HAL\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_usart.o
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.634
+!MESSAGE LINK rt-thread.elf
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.635
+!MESSAGE arm-none-eabi-objcopy -O binary rt-thread.elf rtthread.bin
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.636
+!MESSAGE arm-none-eabi-size rt-thread.elf
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:08.638
+!MESSAGE scons: done building targets.
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.726
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.728
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_ROOT= 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.730
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set ENV_ROOT=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.733
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_EXEC_PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.736
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set KCONF_EXEC_PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.737
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTT_CC=gcc 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.738
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set RTTS_PLATFORM=STUDIO 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.739
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set SCONS=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.740
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PKGS_ROOT=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.741
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.742
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.743
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.745
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.747
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.749
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.750
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\qemu\qemu32;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.751
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PYTHONPATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27; 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.752
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>set PATH=E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\qemu\qemu32;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\exec;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27\Scripts;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\Python27;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\tools\MinGit-2.25.1-32-bit\cmd;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin/server;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/bin;E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\脭卢脫锚\.dnx\bin;C;\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Software\compiler\Visual Stdio\software\ide\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\bin;E:\library\opencv\opencv_w_4_5_5\opencv\new_build\install\x64\vc17\lib;E:\Software\compiler\JavaScript\Node.js\software\;E:\Software\compiler\CMake\software\bin;E:\Software\compiler\Git\Git\cmd;E:\Software\compiler\putty\software\;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\mingw32\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\msys64\usr\bin;E:\library\java\src\bin;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Software\compiler\python\Anaconda\software\Scripts\;E:\Software\compiler\python\Anaconda\software\Library\bin;E:\Software\compiler\python\Anaconda\software\Library\mingw-w64\bin;E:\Software\Tools\net\mqtt\emqx\emqx-5.0.0-otp24.2.1-windows-amd64.tar\emqx-5.0.0-otp24.2.1-windows-amd64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\library\esp\.espressif\python_env\idf4.4_py3.8_env\Scripts;E:\Software\book\texlive\software\texlive\2022\bin\win32;C:\Program Files\usbipd-win\;C:\Users\袁雨\AppData\Roaming\Python\Python39\Scripts;E:\Software\video\ffmpeg\Release\ffmpeg-master-latest-win64-gpl\bin;E:\program\software\tool\git\TortoiseGit\software\bin;E:\Software\compiler\Ruby\software\Ruby31-x64\bin;E:\library\gcc-arm-none-eabi\src\10 2021.10\bin;E:\Software\compiler\python\software\python\Scripts\;E:\Software\compiler\python\software\python\;C:\Users\袁雨\AppData\Local\Microsoft\WindowsApps;E:\Software\compiler\Microsoft VS Code\bin;C:\Users\袁雨\AppData\Roaming\npm;%;SERPROFILE%\.dotnet\tools;E:\Software\Tools\input-method\software\espanso;E:\library\msys2\software\usr\bin;E:\Software\compiler\jetbrains\CLion\software\CLion 2021.3.4\bin;C:\Users\袁雨\.dotnet\tools;E:\Software\compiler\Java\IDEA\software\IntelliJ IDEA 2022.1.1\bin;E:\Software\compiler\python\pycharm\software\PyCharm 2022.1.1\bin;E:\Software\compiler\FPGA\modelsim\win64;C:\Users\袁雨\AppData\Local\GitHubDesktop\bin;E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio;;E:/Software/compiler/Git/Git/bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:46.760
+!MESSAGE E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050>E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/plugins/org.rt-thread.studio.kconfig.exec_1.0.14/exec/k2j.exe --config ./.config --kconfig ./Kconfig --output json_menus ./.settings/.rtmenus 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.163
+!MESSAGE ./Kconfig:5: warning: BSP_ROOT has 'option env="BSP_DIR"', but the environment variable BSP_DIR is not set
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.164
+!MESSAGE ./Kconfig:5: warning: Kconfiglib expands environment variables in strings directly, meaning you do not need 'option env=...' "bounce" symbols. For compatibility with the C tools, rename BSP_DIR to BSP_ROOT (so that the symbol name matches the environment variable name).
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.165
+!MESSAGE ./Kconfig:10: warning: RTT_ROOT has 'option env="RTT_DIR"', but the environment variable RTT_DIR is not set
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.165
+!MESSAGE ./Kconfig:10: warning: Kconfiglib expands environment variables in strings directly, meaning you do not need 'option env=...' "bounce" symbols. For compatibility with the C tools, rename RTT_DIR to RTT_ROOT (so that the symbol name matches the environment variable name).
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.166
+!MESSAGE ./Kconfig:15: warning: Kconfiglib expands environment variables in strings directly, meaning you do not need 'option env=...' "bounce" symbols. For compatibility with the C tools, rename PKGS_DIR to PKGS_ROOT (so that the symbol name matches the environment variable name).
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.167
+!MESSAGE warning: RT_VBUS_USING_TESTS (defined at rt-thread/components/vbus/Kconfig:20) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.168
+!MESSAGE warning: RT_VBUS_GUEST_VIRQ (defined at rt-thread/components/vbus/Kconfig:34) defined with more than one help text -- only the last one will be used
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.169
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:33: warning: style: quotes recommended around 'ClassA' in 'bool ClassA'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.169
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:35: warning: style: quotes recommended around 'ClassC' in 'bool ClassC'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.170
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:44: warning: style: quotes recommended around 'OTAA' in 'bool OTAA'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.171
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:47: warning: style: quotes recommended around 'ABP' in 'bool ABP'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.172
+!MESSAGE warning: SALOF_LOG_LEVEL (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/kawaii-mqtt/Kconfig:76) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.172
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/multimedia/gui_engine/Kconfig:32: warning: style: quotes recommended around '32' in 'bool 32'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.173
+!MESSAGE E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/multimedia/gui_engine/Kconfig:35: warning: style: quotes recommended around '24' in 'bool 24'
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.174
+!MESSAGE warning: PKG_USING_DRV_INFRARED (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/infrared/Kconfig:24) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.175
+!MESSAGE warning: PKG_USING_DRV_MULTI_INFRARED (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/multi_infrared/Kconfig:19) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.176
+!MESSAGE warning: VDEVICE_USING_PIN (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/vdevice/Kconfig:13) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.176
+!MESSAGE warning: VDEVICE_USING_LCD (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/vdevice/Kconfig:24) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.177
+!MESSAGE warning: VDEVICE_USING_TOUCH (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/vdevice/Kconfig:34) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.178
+!MESSAGE warning: CW2015_USE_AUTO_UPDATE (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/cw2015/Kconfig:17) has leading or trailing whitespace in its prompt
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.178
+!MESSAGE warning: style: quotes recommended around default value for string symbol RT_LWIP_IPADDR (defined at rt-thread/components/net/lwip/Kconfig:92)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.179
+!MESSAGE warning: style: quotes recommended around default value for string symbol RT_LWIP_GWADDR (defined at rt-thread/components/net/lwip/Kconfig:96)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.180
+!MESSAGE warning: style: quotes recommended around default value for string symbol RT_LWIP_MSKADDR (defined at rt-thread/components/net/lwip/Kconfig:100)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.180
+!MESSAGE warning: style: quotes recommended around default value for string symbol DHCPD_SERVER_IP (defined at rt-thread/components/net/lwip/Kconfig:261)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.181
+!MESSAGE warning: style: quotes recommended around default value for string symbol DHCP_DNS_SERVER_IP (defined at rt-thread/components/net/lwip/Kconfig:273)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.181
+!MESSAGE warning: style: quotes recommended around default value for string symbol WIZ_IPADDR (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/wiznet/Kconfig:58)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.182
+!MESSAGE warning: style: quotes recommended around default value for string symbol WIZ_GWADDR (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/wiznet/Kconfig:62)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.182
+!MESSAGE warning: style: quotes recommended around default value for string symbol WIZ_MSKADDR (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/wiznet/Kconfig:66)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.183
+!MESSAGE warning: style: quotes recommended around default value for string symbol PKG_USING_ALI_IOTKIT_PRODUCT_KEY (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/iot_cloud/ali-iotkit/Kconfig:17)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.184
+!MESSAGE warning: style: quotes recommended around default value for string symbol PKG_USING_ALI_IOTKIT_PRODUCT_SECRET (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/iot_cloud/ali-iotkit/Kconfig:21)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.185
+!MESSAGE warning: style: quotes recommended around default value for string symbol PKG_USING_ALI_IOTKIT_DEVICE_SECRET (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/iot_cloud/ali-iotkit/Kconfig:29)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.186
+!MESSAGE warning: style: quotes recommended around default value for string symbol PKG_USING_TENCENT_IOT_EXPLORER_DEVICE_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/iot_cloud/tencent-iot-sdk/Kconfig:20)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.187
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORAWAN_ED_STACK_PHY_PARAMETER_CHANNEL_MASK1 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:243)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.188
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORAWAN_ED_STACK_PHY_PARAMETER_CHANNEL_MASK2 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:246)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.189
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORAWAN_ED_STACK_PHY_PARAMETER_CHANNEL_MASK3 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:249)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.189
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORAWAN_ED_STACK_PHY_PARAMETER_CHANNEL_MASK4 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:252)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.190
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORAWAN_ED_STACK_PHY_PARAMETER_CHANNEL_MASK5 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:255)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:37:59.191
+!MESSAGE warning: style: quotes recommended around default value for string symbol MP3_SOUND_DEVICE_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/multimedia/mp3player/Kconfig:16)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.130
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORA_RADIO0_DEVICE_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/lora_radio_driver/Kconfig:33)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.131
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORA_RADIO0_SPI_BUS_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/lora_radio_driver/Kconfig:37)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.132
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORA_GW_DRIVER_SPI_BUS_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/lora_gw_driver_lib/Kconfig:27)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.133
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORA_GW_DRIVER_I2C_DEVICE_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/lora_gw_driver_lib/Kconfig:33)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.134
+!MESSAGE warning: style: quotes recommended around default value for string symbol LORA_MODEM_UART_DEVICE (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/lora_modem_driver/Kconfig:13)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.135
+!MESSAGE warning: the choice symbol RT_USING_USERHEAP (defined at rt-thread/src/Kconfig:352) is selected by the following symbols, but select/imply has no effect on choice symbols
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.136
+!MESSAGE  - PKG_USING_TLSF (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/system/tlsf/Kconfig:3)
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.138
+!MESSAGE warning: the default selection ClassA (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:27) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.139
+!MESSAGE warning: the default selection ABP (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:38) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.140
+!MESSAGE warning: the default selection REGION_CN470 (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_ed_stack/Kconfig:201) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/lorawan_driver/Kconfig:50) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.141
+!MESSAGE warning: the default selection ABUP_NETWORKING_MODE (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/abup_fota/Kconfig:14) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.142
+!MESSAGE warning: the default selection ABUP_ALGORITHM (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/abup_fota/Kconfig:39) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.143
+!MESSAGE warning: the default selection RT_LINK_USING_UART (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/iot/rt-link_hw/Kconfig:8) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 11:38:00.144
+!MESSAGE warning: the default selection PKG_USING_MISAKA_AT24CXX_LATEST_VERSION (undefined) of <choice> (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env\packages/packages/peripherals/Misaka_AT24CXX/Kconfig:17) is not contained in the choice
+
+!ENTRY org.rt-thread.studio.rttconfig.core 1 0 2022-11-02 11:38:03.118
+!MESSAGE warning: style: quotes recommended around default value for string symbol MP3_SOUND_DEVICE_NAME (defined at E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/platform/env_released/env/packages/packages/multimedia/mp3player/Kconfig:16)
+
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:37:33.544
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin/arm-none-eabi-readelf.exe -S "E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.elf"
+There are 21 section headers, starting at offset 0x8c880:
+Section Headers:
+[Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+[ 0]                   NULL            00000000 000000 000000 00      0   0  0
+[ 1] .text             PROGBITS        08000000 010000 01584c 00  AX  0   0 64
+[ 2] .init             PROGBITS        0801584c 02584c 000004 00  AX  0   0  4
+[ 3] .fini             PROGBITS        08015850 025850 000004 00  AX  0   0  4
+[ 4] .ARM.exidx        ARM_EXIDX       08015854 025854 000008 00  AL  1   0  4
+[ 5] .data             PROGBITS        20000000 030000 000730 00  WA  0   0  8
+[ 6] .stack            NOBITS          20000730 030730 000200 00  WA  0   0  1
+[ 7] .bss              NOBITS          20000930 030730 000a2c 00  WA  0   0  4
+[ 8] .comment          PROGBITS        00000000 030730 00006e 01  MS  0   0  1
+[ 9] .ARM.attributes   ARM_ATTRIBUTES  00000000 03079e 000030 00      0   0  1
+[10] .debug_aranges    PROGBITS        00000000 0307d0 0018f0 00      0   0  8
+[11] .debug_info       PROGBITS        00000000 0320c0 0217ca 00      0   0  1
+[12] .debug_abbrev     PROGBITS        00000000 05388a 0051e2 00      0   0  1
+[13] .debug_line       PROGBITS        00000000 058a6c 00c10e 00      0   0  1
+[14] .debug_frame      PROGBITS        00000000 064b7c 00675c 00      0   0  4
+[15] .debug_str        PROGBITS        00000000 06b2d8 007b84 01  MS  0   0  1
+[16] .debug_loc        PROGBITS        00000000 072e5c 00ccfa 00      0   0  1
+[17] .debug_ranges     PROGBITS        00000000 07fb58 0016d8 00      0   0  8
+[18] .shstrtab         STRTAB          00000000 08c7b4 0000c9 00      0   0  1
+[19] .symtab           SYMTAB          00000000 081230 007ba0 10     20 1481  4
+[20] .strtab           STRTAB          00000000 088dd0 0039e4 00      0   0  1
+Key to Flags:
+W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+L (link order), O (extra OS processing required), G (group), T (TLS),
+C (compressed), x (unknown), o (OS specific), E (exclude),
+y (purecode), p (processor specific)
+
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:37:33.545
+!MESSAGE 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:40:51.103
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>E:/Software/compiler/RT-Thread/RT-Thread_Studio/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin/arm-none-eabi-readelf.exe -S "E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.elf"
+There are 21 section headers, starting at offset 0x8c880:
+Section Headers:
+[Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+[ 0]                   NULL            00000000 000000 000000 00      0   0  0
+[ 1] .text             PROGBITS        08000000 010000 01584c 00  AX  0   0 64
+[ 2] .init             PROGBITS        0801584c 02584c 000004 00  AX  0   0  4
+[ 3] .fini             PROGBITS        08015850 025850 000004 00  AX  0   0  4
+[ 4] .ARM.exidx        ARM_EXIDX       08015854 025854 000008 00  AL  1   0  4
+[ 5] .data             PROGBITS        20000000 030000 000730 00  WA  0   0  8
+[ 6] .stack            NOBITS          20000730 030730 000200 00  WA  0   0  1
+[ 7] .bss              NOBITS          20000930 030730 000a2c 00  WA  0   0  4
+[ 8] .comment          PROGBITS        00000000 030730 00006e 01  MS  0   0  1
+[ 9] .ARM.attributes   ARM_ATTRIBUTES  00000000 03079e 000030 00      0   0  1
+[10] .debug_aranges    PROGBITS        00000000 0307d0 0018f0 00      0   0  8
+[11] .debug_info       PROGBITS        00000000 0320c0 0217ca 00      0   0  1
+[12] .debug_abbrev     PROGBITS        00000000 05388a 0051e2 00      0   0  1
+[13] .debug_line       PROGBITS        00000000 058a6c 00c10e 00      0   0  1
+[14] .debug_frame      PROGBITS        00000000 064b7c 00675c 00      0   0  4
+[15] .debug_str        PROGBITS        00000000 06b2d8 007b84 01  MS  0   0  1
+[16] .debug_loc        PROGBITS        00000000 072e5c 00ccfa 00      0   0  1
+[17] .debug_ranges     PROGBITS        00000000 07fb58 0016d8 00      0   0  8
+[18] .shstrtab         STRTAB          00000000 08c7b4 0000c9 00      0   0  1
+[19] .symtab           SYMTAB          00000000 081230 007ba0 10     20 1481  4
+[20] .strtab           STRTAB          00000000 088dd0 0039e4 00      0   0  1
+Key to Flags:
+W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+L (link order), O (extra OS processing required), G (group), T (TLS),
+C (compressed), x (unknown), o (OS specific), E (exclude),
+y (purecode), p (processor specific)
+
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:40:51.103
+!MESSAGE 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:41:00.886
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:41:00.888
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3>pyocd.exe flash --target=STM32F429IG --erase=auto --frequency=1000000 E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:41:12.048
+!MESSAGE [---|---|---|---|---|---|---|---|---|----]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:41:36.406
+!MESSAGE [========================================]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:41:38.952
+!MESSAGE 0033097:INFO:loader:Erased chip, programmed 131072 bytes (128 pages), skipped 0 bytes (0 pages) at 4.71 kB/s
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:45:52.586
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:45:52.588
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3>pyocd.exe flash --target=STM32F429IG --erase=auto --frequency=1000000 E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:45:54.812
+!MESSAGE [---|---|---|---|---|---|---|---|---|----]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:01.711
+!MESSAGE [========================================]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.753
+!MESSAGE 0031523:ERROR:board:link exception during target disconnect:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.754
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.755
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.755
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.756
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.757
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.757
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.758
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.759
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.759
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.760
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.760
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.761
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.761
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.762
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.762
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.763
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.763
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.764
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.765
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.765
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.766
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.766
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.767
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.768
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.768
+!MESSAGE During handling of the above exception, another exception occurred:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.769
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.769
+!MESSAGE   File "pyocd\board\board.py", line 98, in uninit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.770
+!MESSAGE   File "pyocd\core\coresight_target.py", line 305, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.770
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 510, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.771
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 1021, in resume
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.771
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 982, in get_state
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.772
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 646, in read_memory
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.773
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.773
+!MESSAGE   File "pyocd\coresight\ap.py", line 883, in _read_memory
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.774
+!MESSAGE   File "pyocd\coresight\ap.py", line 864, in read_mem_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.774
+!MESSAGE   File "pyocd\coresight\dap.py", line 603, in read_ap_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.775
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 285, in read_ap_result_callback
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.775
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 830, in read_reg_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.776
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 143, in get_result
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.776
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.777
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 664, in flush
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.778
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.778
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.779
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.779
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.780
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:24.782
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.777
+!MESSAGE 0041548:ERROR:session:probe exception during disconnect:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.778
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.779
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.780
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.780
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.781
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.781
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.782
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.783
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.783
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.784
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.785
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.785
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.786
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.787
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.788
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.788
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.789
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.790
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.791
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.792
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.793
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.794
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.794
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.795
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.795
+!MESSAGE During handling of the above exception, another exception occurred:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.796
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.797
+!MESSAGE   File "pyocd\core\session.py", line 442, in close
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.798
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 203, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.798
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.799
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 724, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.800
+!MESSAGE   File "pyocd\probe\pydapaccess\cmsis_dap_core.py", line 193, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.801
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.802
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.802
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.803
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.804
+!MESSAGE 0041551:CRITICAL:__main__:uncaught exception: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.804
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.805
+!MESSAGE   File "pyocd\__main__.py", line 362, in run
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.806
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.807
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.808
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.808
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.809
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.810
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.810
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.811
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.812
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.812
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.813
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.813
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.814
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.814
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.815
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.816
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.817
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.817
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.818
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.819
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.820
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.821
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:46:34.822
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:04.528
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:04.530
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3>pyocd.exe flash --target=STM32F429IG --erase=auto --frequency=1000000 E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.400
+!MESSAGE 0001257:CRITICAL:__main__:No ACK received
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.401
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.402
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 249, in read_dp
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.402
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 836, in read_reg
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.403
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 830, in read_reg_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.403
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 143, in get_result
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.404
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.405
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 667, in flush
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.405
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.406
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 915, in _read_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.407
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 449, in decode_data
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.408
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 418, in _decode_transfer_block_data
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.408
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 341, in _check_response
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.409
+!MESSAGE pyocd.probe.pydapaccess.dap_access_api.DAPAccessIntf.TransferError: No ACK received
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.409
+!MESSAGE The above exception was the direct cause of the following exception:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.410
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.410
+!MESSAGE   File "pyocd\__main__.py", line 362, in run
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.411
+!MESSAGE   File "pyocd\__main__.py", line 520, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.412
+!MESSAGE   File "pyocd\core\session.py", line 302, in __enter__
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.412
+!MESSAGE   File "pyocd\core\session.py", line 420, in open
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.413
+!MESSAGE   File "pyocd\board\board.py", line 85, in init
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.414
+!MESSAGE   File "pyocd\core\coresight_target.py", line 160, in init
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.415
+!MESSAGE   File "pyocd\utility\sequencer.py", line 213, in invoke
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.416
+!MESSAGE   File "pyocd\utility\sequencer.py", line 208, in invoke
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.416
+!MESSAGE   File "pyocd\coresight\dap.py", line 303, in _connect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.417
+!MESSAGE   File "pyocd\coresight\dap.py", line 167, in connect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.417
+!MESSAGE   File "pyocd\coresight\dap.py", line 194, in read_idr
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.418
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 251, in read_dp
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.418
+!MESSAGE   File "<string>", line 3, in raise_from
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:48:06.419
+!MESSAGE pyocd.core.exceptions.TransferError: No ACK received
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:51:55.272
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:51:55.275
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3>pyocd.exe flash --target=STM32F429IG --erase=auto --frequency=1000000 E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:51:57.912
+!MESSAGE [---|---|---|---|---|---|---|---|---|----]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:03.051
+!MESSAGE [========================================]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.759
+!MESSAGE 0036713:ERROR:board:link exception during target disconnect:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.759
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.760
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.760
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.761
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.762
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.762
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.763
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.763
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.764
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.765
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.765
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.766
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.766
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.767
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.767
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.768
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.768
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.769
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.770
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.771
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.771
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.772
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.772
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.773
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.774
+!MESSAGE During handling of the above exception, another exception occurred:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.774
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.775
+!MESSAGE   File "pyocd\board\board.py", line 98, in uninit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.775
+!MESSAGE   File "pyocd\core\coresight_target.py", line 305, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.776
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 510, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.776
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 1021, in resume
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.777
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 982, in get_state
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.777
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 646, in read_memory
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.778
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.778
+!MESSAGE   File "pyocd\coresight\ap.py", line 883, in _read_memory
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.779
+!MESSAGE   File "pyocd\coresight\ap.py", line 864, in read_mem_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.779
+!MESSAGE   File "pyocd\coresight\dap.py", line 603, in read_ap_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.780
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 285, in read_ap_result_callback
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.780
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 830, in read_reg_cb
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.781
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 143, in get_result
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.781
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.782
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 664, in flush
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.782
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.783
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.783
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.784
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.784
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:32.785
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.791
+!MESSAGE 0046744:ERROR:session:probe exception during disconnect:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.792
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.793
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.793
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.794
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.794
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.795
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.796
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.797
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.797
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.798
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.799
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.799
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.800
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.801
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.802
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.803
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.804
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.805
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.805
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.806
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.806
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.807
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.807
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.808
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.809
+!MESSAGE During handling of the above exception, another exception occurred:
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.809
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.810
+!MESSAGE   File "pyocd\core\session.py", line 442, in close
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.810
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 203, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.811
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.811
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 724, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.812
+!MESSAGE   File "pyocd\probe\pydapaccess\cmsis_dap_core.py", line 193, in disconnect
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.812
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.813
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.814
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.814
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.815
+!MESSAGE 0046749:CRITICAL:__main__:uncaught exception: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.815
+!MESSAGE Traceback (most recent call last):
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.816
+!MESSAGE   File "pyocd\__main__.py", line 362, in run
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.816
+!MESSAGE   File "pyocd\__main__.py", line 527, in do_flash
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.817
+!MESSAGE   File "pyocd\flash\file_programmer.py", line 158, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.818
+!MESSAGE   File "pyocd\flash\loader.py", line 168, in commit
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.819
+!MESSAGE   File "pyocd\flash\builder.py", line 470, in program
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.820
+!MESSAGE   File "pyocd\flash\builder.py", line 902, in _sector_erase_program_double_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.820
+!MESSAGE   File "pyocd\flash\flash.py", line 399, in load_page_buffer
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.821
+!MESSAGE   File "pyocd\core\coresight_target.py", line 335, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.822
+!MESSAGE   File "pyocd\coresight\cortex_m.py", line 666, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.823
+!MESSAGE   File "pyocd\core\memory_interface.py", line 129, in write_memory_block8
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.823
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.824
+!MESSAGE   File "pyocd\coresight\ap.py", line 953, in _write_memory_block32
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.824
+!MESSAGE   File "pyocd\coresight\ap.py", line 903, in _write_block32_page
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.825
+!MESSAGE   File "pyocd\coresight\dap.py", line 627, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.825
+!MESSAGE   File "pyocd\probe\cmsis_dap_probe.py", line 326, in write_ap_multiple
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.826
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 852, in reg_write_repeat
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.827
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.828
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 1015, in _write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.828
+!MESSAGE   File "pyocd\utility\concurrency.py", line 28, in _locking
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.829
+!MESSAGE   File "pyocd\probe\pydapaccess\dap_access_cmsis_dap.py", line 963, in _send_packet
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.830
+!MESSAGE   File "pyocd\probe\pydapaccess\interface\pywinusb_backend.py", line 143, in write
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.830
+!MESSAGE   File "pywinusb\hid\core.py", line 1495, in send
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.831
+!MESSAGE   File "pywinusb\hid\core.py", line 559, in send_output_report
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 13:52:42.831
+!MESSAGE pywinusb.hid.helpers.HIDError: Write timed out
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 14:15:46.742
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio>cd /d E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 14:15:46.744
+!MESSAGE E:\Software\compiler\RT-Thread\RT-Thread_Studio\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3>pyocd.exe flash --target=STM32F429IG --erase=auto --frequency=1000000 E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin 
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 14:15:49.008
+!MESSAGE [---|---|---|---|---|---|---|---|---|----]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 14:15:54.114
+!MESSAGE [========================================]
+
+!ENTRY org.rt-thread.studio.common.ui 1 0 2022-11-02 14:16:04.624
+!MESSAGE 0017227:INFO:loader:Erased 131072 bytes (5 sectors), programmed 131072 bytes (128 pages), skipped 0 bytes (0 pages) at 8.06 kB/s

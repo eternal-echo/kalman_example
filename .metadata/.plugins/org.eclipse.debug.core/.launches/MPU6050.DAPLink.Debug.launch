@@ -12,7 +12,7 @@
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbClientOtherCommands" value="set mem inaccessible-by-default off"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbClientOtherOptions" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerConnectionAddress" value=""/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerExecutable" value="${rtt_install_path}/repo/Extract/Debugger_Support_Packages/RealThread/PyOCD/0.1.0/pyocd.exe"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerExecutable" value="${debugger_install_path}/${daplink_debugger_relative_path}/pyocd.exe"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerGdbPortNumber" value="3333"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerOther" value=""/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerTelnetPortNumber" value="4444"/>

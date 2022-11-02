@@ -14,10 +14,10 @@
 #include <board.h>
 
 #include "mpu6xxx.h"
-#include "kalman/kalman.h"
+#include "kalman.h"
 
 /* Default configuration, please change according to the actual situation, support i2c and spi device name */
-#define MPU6XXX_DEVICE_NAME  "i2c1"
+#define MPU6XXX_DEVICE_NAME  "i2c2"
 
 int main(void)
 {
@@ -103,17 +103,13 @@ int main(void)
         if (gyroYangle < -180 || gyroYangle > 180)
             gyroYangle = kalAngleY;
         
-        // rt_kprintf("accel.x = %3d, accel.y = %3d, accel.z = %3d ", accel.x, accel.y, accel.z);
-        // rt_kprintf("gyro.x = %3d gyro.y = %3d, gyro.z = %3d\n", gyro.x, gyro.y, gyro.z);
-        // rt_kprintf("roll = %3d, pitch = %3d, yaw = %3d\n", (int)roll, (int)pitch, (int)0);
-        // rt_kprintf("kalAngleX = %3d, kalAngleY = %3d\n", (int)kalAngleX, (int)kalAngleY);
-        // rt_kprintf("gyroXangle = %3d, gyroYangle = %3d\n", (int)gyroXangle, (int)gyroYangle);
-        // rt_kprintf("compAngleX = %3d, compAngleY = %3d\n", (int)compAngleX, (int)compAngleY);
-        // rt_kprintf("accel: %3d, %3d, %3d\n", accel.x, accel.y, accel.z);
-        // rt_kprintf("gyro: %3d, %3d, %3d\n", gyro.x, gyro.y, gyro.z);
-        // rt_kprintf("roll: %3d, %3d, %3d, %3d\n", (int)roll, (int)kalAngleX, (int)gyroXangle, (int)compAngleX);
-        // rt_kprintf("pitch: %3d, %3d, %3d, %3d\n", (int)pitch, (int)kalAngleY, (int)gyroYangle, (int)compAngleY);
-        rt_kprintf("%3d, %3d, %3d, %3d, %3d, %3d, %3d, %3d\n", (int)roll, (int)kalAngleX, (int)gyroXangle, (int)compAngleX, (int)pitch, (int)kalAngleY, (int)gyroYangle, (int)compAngleY);
+        rt_kprintf("accel.x = %3d, accel.y = %3d, accel.z = %3d ", accel.x, accel.y, accel.z);
+        rt_kprintf("gyro.x = %3d gyro.y = %3d, gyro.z = %3d\n", gyro.x, gyro.y, gyro.z);
+        rt_kprintf("roll = %3d, pitch = %3d, yaw = %3d\n", (int)roll, (int)pitch, (int)0);
+        rt_kprintf("kalAngleX = %3d, kalAngleY = %3d\n", (int)kalAngleX, (int)kalAngleY);
+        rt_kprintf("gyroXangle = %3d, gyroYangle = %3d\n", (int)gyroXangle, (int)gyroYangle);
+        rt_kprintf("compAngleX = %3d, compAngleY = %3d\n", (int)compAngleX, (int)compAngleY);
+
         rt_thread_mdelay(2);
     }
 

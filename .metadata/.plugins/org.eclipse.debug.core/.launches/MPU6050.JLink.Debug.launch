@@ -37,7 +37,7 @@
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.gdbServerSwoPortNumber" value="2332"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.gdbServerTelnetPortNumber" value="2333"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.interfaceSpeed" value="auto"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.jlinkExecutable" value="${rtt_install_path}/repo/Extract/Debugger_Support_Packages/SEGGER/J-Link/6.80d/JLink.exe"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.jlinkExecutable" value="${debugger_install_path}/${jlink_debugger_relative_path}/JLink.exe"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.otherInitCommands" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.otherRunCommands" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.jlink.secondResetType" value=""/>

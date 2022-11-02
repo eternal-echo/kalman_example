@@ -1,0 +1,10 @@
+si 1
+exec device=STM32F429IG
+speed auto
+r
+h
+loadbin "E:\embeded\math\filter\kalman_filter\my_project\Study\MPU6050\Debug\rtthread.bin" 0x08000000
+setpc 0x08000000
+r
+g
+q

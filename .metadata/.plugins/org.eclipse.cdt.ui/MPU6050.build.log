@@ -32,3 +32,6 @@ arm-none-eabi-size --format=berkeley "rtthread.elf"
               Used Size(B)           Used Size(KB)
 Flash:          89732 B               87.63 KB
 RAM:             4956 B                4.84 KB
+
+14:15:25 Build Finished. 0 errors, 8 warnings. (took 2s.893ms)
+
